@@ -3,7 +3,7 @@ title: "Pet photos"
 author: "Adam L. Ozer"
 date: "2024-03-15"
 image: fisher_in_garage.jpg
-categories: [data science, social research, pets]
+categories: [pets, photos, other stuff]
 ---
 
 This is a placeholder for what will eventually become the first blog post. Check back soon for updates and new posts. In the meantime, enjoy some pet photos.

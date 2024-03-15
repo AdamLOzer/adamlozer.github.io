@@ -1,6 +1,6 @@
 ---
 title: "Adam L. Ozer"
-subtitle: "Social researcher and data scientist in industry and academia"
+subtitle: "Data scientist and quantitative social researcher in industry and academia"
 image: cliffs.jpg
 about:
   template: solana
@@ -20,4 +20,4 @@ about:
       href: https://www.researchgate.net/profile/Adam_Ozer
 ---
 
-I am Adam, Senior Data Scientist/Associated Director at Verian (formerly Kantar Public) on the Population Studies Team. I am a quantitative researcher and social scientist in both industry and academia. My work has been featured in peer-reviewed journals such as *Public Opinion Quarterly*, *Business & Politics,* and *Electoral Studies* and continue to contribute research at the Universty of Houston, London School of Economics, and the Open University.
+I am Adam, Senior Data Scientist/Associated Director at Verian (formerly Kantar Public) on the Population Studies Team. I am a quantitative researcher and social scientist in both industry and academia. My work has been featured in peer-reviewed journals such as *Public Opinion Quarterly*, *Business & Politics,* and *Electoral Studies* and continue to contribute research at the University of Houston, London School of Economics, and the Open University.

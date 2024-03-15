@@ -5,10 +5,24 @@ project:
 website:
   title: "Adam L. Ozer, Ph.D."
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - publications.qmd
+    right:
+      - href: https://drive.google.com/file/d/1Qjok1SjCKTVaR0I15d9rqvYEfcHBUf-y/view
+        icon: link
+        text: CV
+      - href: publications.qmd
+        text: Publications
+
+  page-footer:  
+    left: >-
+     &#169; 2024 Adam Ozer &#8729; Made with [Quarto](https://quarto.org)
+
+    right: 
+      - text: Contact
+        aria-label: Contact Form
+        href: contact.qmd
+      - text: License
+        aria-label: License Details
+        href: license.qmd
 
 format:
   html:

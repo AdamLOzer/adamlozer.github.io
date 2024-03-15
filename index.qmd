@@ -1,5 +1,22 @@
 ---
 title: "About me"
+image: cliffs.jpg
+about:
+  template: solana
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:adam.ozer@veriangroup.com
+    - text: Google Scholar
+      icon: google
+      href: https://scholar.google.com/citations?user=Pvh_N78AAAAJ&hl=en&oi=ao
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/adam-ozer-phd-257083230/
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Adam_Ozer
 ---
 
 I am Adam, a Data Scientist at Verian (formerly Kantar Public) on the Population Studies Team. I am a quantitative researcher and an industry & academic social scientist. I still occasionally contribute to academic research at the Universty of Houston, London School of Economics, and the Open University.

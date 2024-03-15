@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Adam L. Ozer, Ph.D.",
+    "title": "About me",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am Adam, a Data Scientist at Verian (formerly Kantar Public) on the Population Studies Team. I am a quantitative researcher and an industry & academic social scientist. I still occasionally contribute to academic research at the Universty of Houston, London School of Economics, and the Open University.\nMy skill set leverages quantitative techniques to conduct research on human behaviour, including experimental methodology, survey design, multi-level regression modelling, machine learning, and text analysis. I also have extensive experience synthesizing and presenting research findings to technical and non-technical audiences through public research talks, professional conferences, and peer-reviewed publications in journals such as Public Opinion Quarterly, Business & Politics and Electoral Studies."
   },
   {
     "objectID": "about.html",
@@ -18,6 +18,13 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Academic publications\n\nOzer, Adam L. 2023. “Women Experts and Gender Bias in Political Media”. Public Opinion Quarterly.  https://doi.org/10.1093/poq/nfad011"
+    "text": "Ozer, Adam L. 2023. “Women Experts and Gender Bias in Political Media”. Public Opinion Quarterly.  https://doi.org/10.1093/poq/nfad011"
+  },
+  {
+    "objectID": "publications.html#academic-publications",
+    "href": "publications.html#academic-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Ozer, Adam L. 2023. “Women Experts and Gender Bias in Political Media”. Public Opinion Quarterly.  https://doi.org/10.1093/poq/nfad011"
   }
 ]

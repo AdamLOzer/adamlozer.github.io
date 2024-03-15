@@ -1,11 +1,7 @@
 ---
-title: "Adam L. Ozer, Ph.D."
+title: "About me"
 ---
 
-This is a Quarto website.
+I am Adam, a Data Scientist at Verian (formerly Kantar Public) on the Population Studies Team. I am a quantitative researcher and an industry & academic social scientist. I still occasionally contribute to academic research at the Universty of Houston, London School of Economics, and the Open University.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+My skill set leverages quantitative techniques to conduct research on human behaviour, including experimental methodology, survey design, multi-level regression modelling, machine learning, and text analysis. I also have extensive experience synthesizing and presenting research findings to technical and non-technical audiences through public research talks, professional conferences, and peer-reviewed publications in journals such as *Public Opinion Quarterly*, *Business & Politics* and *Electoral Studies*.

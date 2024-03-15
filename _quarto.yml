@@ -9,6 +9,8 @@ website:
       - href: https://drive.google.com/file/d/1Qjok1SjCKTVaR0I15d9rqvYEfcHBUf-y/view
         icon: link
         text: CV
+      - href: blog/index.qmd
+        text: Blog
       - href: publications.qmd
         text: Publications
 

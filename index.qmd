@@ -1,5 +1,5 @@
 ---
-title: "AdamLOzer.github.io"
+title: "Adam L. Ozer, Ph.D."
 ---
 
 This is a Quarto website.

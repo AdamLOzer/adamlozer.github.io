@@ -1,6 +1,6 @@
 ---
-
-
+about:
+  template: solana
 ---
 
 ## Academic publications

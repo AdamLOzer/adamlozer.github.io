@@ -9,9 +9,11 @@ categories: [pets, photos, other stuff]
 This is a placeholder for what will eventually become the first blog post. Check back soon for updates and new posts. In the meantime, enjoy some pet photos.
 
 ## Fisher
+
 ![](fisher_in_garage.jpg)
 Fisher in his cat garage.
 
 ## Coconut
+
 ![](coconut.jpg)
 Coconut, nary a thought in his head.

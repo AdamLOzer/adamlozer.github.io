@@ -12,7 +12,7 @@ website:
         text: CV
         icon: link
       - href: publications.qmd
-        text: Publications
+        text: Projects & Publications
 
   page-footer:  
     left: >-

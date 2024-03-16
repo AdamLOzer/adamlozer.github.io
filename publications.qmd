@@ -1,18 +1,31 @@
 ---
+title: "Project portfolio"
+description: |
+  A selection of works in social science, data science, and everything in between.
 about:
   template: solana
 ---
 
-## Academic publications
+### Social research projects
 
--   **Ozer, Adam L.** 2023. “Women Experts and Gender Bias in Political Media”. *Public Opinion Quarterly*.  [**https://doi.org/10.1093/poq/nfad011**](https://doi.org/10.1093/poq/nfad011)
+-   **The UK MP Inbox** (website coming summer 2024) - A comprehensive database of thousands email newsletters sent by UK members of parliament.
 
--   **Ozer, Adam L.** & Wright, Jamie. 2022. “Partisan News Versus Party Cues: The Effect of Cross-Cutting Party and Partisan Network Cues on Polarization and Persuasion”. *Research & Politics.*  [**https://doi.org/10.1177/20531680221075455**](https://doi.org/10.1177/20531680221075455)
 
--   **Ozer, Adam L.**, Sullivan, Brian W.,  & Van, Douglas S. 2022.  "Viewed from Different Engels? Differences in Reactions to “Socialism” as a Policy Label". *Political Research Quarterly*.  [**https://doi.org/10.1177/10659129211037402**](https://doi.org/10.1177/10659129211037402)
+### Data science training and mentoring
+-   **Verian Global Data Science Training seminar** - an annual internal seminar aimed at educating early career researchers about key DS principles and tools.
 
--   Simas, Elizabeth N. & **Ozer, Adam L.** 2021. “Polarization, candidate positioning, and political participation in the U.S.”. *Electoral Studies*, 73. [**https://doi.org/10.1016/j.electstud.2021.102370**](https://doi.org/10.1016/j.electstud.2021.102370)
+-   **Introduction to R Workshop Series** - an annual series of beginner-friendly workshops covering the basics of data wrangling and data visualisation.
 
--   **Ozer, Adam L.** 2020. "Well, you’re the expert: how signals of source expertise help mitigate partisan bias." *Journal of Elections, Public Opinion and Parties*, 1-21. [**https://doi.org/10.1080/17457289.2020.1744611**](https://doi.org/10.1080/17457289.2020.1744611)
+### Academic publications
 
--   Simas, Elizabeth N., & **Ozer, Adam L.** 2017. "Church or state? Reassessing how religion shapes impressions of candidate positions". *Research & Politics*, 4(2). [**https://doi.org/10.1177/2053168017716548**](https://doi.org/10.1177%2F2053168017716548)
+-   **Ozer, Adam L.** 2023. âWomen Experts and Gender Bias in Political Mediaâ. *Public Opinion Quarterly*.Â  [**https://doi.org/10.1093/poq/nfad011**](https://doi.org/10.1093/poq/nfad011)
+
+-   **Ozer, Adam L.** & Wright, Jamie.Â 2022.Â âPartisan News Versus Party Cues: The Effect of Cross-Cutting Party and Partisan Network Cues on Polarization and Persuasionâ.Â *Research & Politics.*Â Â [**https://doi.org/10.1177/20531680221075455**](https://doi.org/10.1177/20531680221075455)
+
+-   **Ozer, Adam L.**, Sullivan, Brian W.,Â  & Van, Douglas S.Â 2022.Â Â "Viewed from Different Engels? Differences in Reactions to âSocialismâ as a Policy Label".Â *Political Research Quarterly*.Â Â [**https://doi.org/10.1177/10659129211037402**](https://doi.org/10.1177/10659129211037402)
+
+-   Simas, Elizabeth N. &Â **Ozer, Adam L.**Â 2021. âPolarization, candidate positioning, and political participation in the U.S.â.Â *Electoral Studies*, 73.Â [**https://doi.org/10.1016/j.electstud.2021.102370**](https://doi.org/10.1016/j.electstud.2021.102370)
+
+-   **Ozer, Adam L.**Â 2020. "Well, youâre the expert: how signals of source expertise help mitigate partisan bias."Â *Journal of Elections, Public Opinion and Parties*, 1-21.Â [**https://doi.org/10.1080/17457289.2020.1744611**](https://doi.org/10.1080/17457289.2020.1744611)
+
+-   Simas, ElizabethÂ N., &Â **Ozer, Adam L.**Â 2017.Â "Church or state? Reassessing how religion shapes impressions of candidate positions".Â *Research & Politics*,Â 4(2).Â [**https://doi.org/10.1177/2053168017716548**](https://doi.org/10.1177%2F2053168017716548)

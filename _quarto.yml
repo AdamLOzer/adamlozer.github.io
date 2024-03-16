@@ -10,8 +10,9 @@ website:
         text: Blog
       - href: https://drive.google.com/file/d/1Qjok1SjCKTVaR0I15d9rqvYEfcHBUf-y/view
         text: CV
+        icon: link
       - href: publications.qmd
-        text: Projects & Publications
+        text: Publications
 
   page-footer:  
     left: >-

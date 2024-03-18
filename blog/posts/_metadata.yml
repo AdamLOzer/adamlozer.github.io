@@ -1,8 +1,26 @@
-# options specified here will apply to all posts in this folder
 
-# freeze computational output
-# (see https://quarto.org/docs/projects/code-execution.html#freeze)
-freeze: true
+sansfont: "Times New Roman"
+# Set author
+author: Adam L. Ozer
 
 # Enable banner style title blocks
-title-block-banner: true
+#title-block-banner: "#FFFFFF"
+title-block-style: plain
+ 
+# Enable CC licence appendix
+license: CC BY-SA
+
+# Default for table of contents
+toc: true
+toc-title: Table of Contents
+toc-location: right
+
+# Default fields for citation
+citation: true
+appendix-cite-as: display
+
+# Scroll overflow code
+format: 
+  html: 
+    code-overflow: scroll
+    css: post_theme.css

@@ -18,21 +18,21 @@
     "href": "publications.html",
     "title": "Project portfolio",
     "section": "",
-    "text": "Data science training and mentoring\n\nVerian Global Data Science Training seminar - an annual internal seminar aimed at educating early career researchers about key DS principles and tools.\nIntroduction to R Workshop Series - an annual series of beginner-friendly workshops covering the basics of data wrangling and data visualisation.\n\n\n\nAcademic publications\n\nOzer, Adam L. 2023. “Women Experts and Gender Bias in Political Media”. Public Opinion Quarterly.  https://doi.org/10.1093/poq/nfad011\nOzer, Adam L. & Wright, Jamie. 2022. “Partisan News Versus Party Cues: The Effect of Cross-Cutting Party and Partisan Network Cues on Polarization and Persuasion”. Research & Politics.  https://doi.org/10.1177/20531680221075455\nOzer, Adam L., Sullivan, Brian W.,  & Van, Douglas S. 2022.  “Viewed from Different Engels? Differences in Reactions to “Socialism” as a Policy Label”. Political Research Quarterly.  https://doi.org/10.1177/10659129211037402\nSimas, Elizabeth N. & Ozer, Adam L. 2021. “Polarization, candidate positioning, and political participation in the U.S.”. Electoral Studies, 73. https://doi.org/10.1016/j.electstud.2021.102370\nOzer, Adam L. 2020. “Well, you’re the expert: how signals of source expertise help mitigate partisan bias.” Journal of Elections, Public Opinion and Parties, 1-21. https://doi.org/10.1080/17457289.2020.1744611\nSimas, Elizabeth N., & Ozer, Adam L. 2017. “Church or state? Reassessing how religion shapes impressions of candidate positions”. Research & Politics, 4(2). https://doi.org/10.1177/2053168017716548"
+    "text": "The UK MP Inbox (website coming summer 2024) - A comprehensive database of thousands email newsletters sent by UK members of parliament."
   },
   {
     "objectID": "publications.html#academic-publications",
     "href": "publications.html#academic-publications",
     "title": "Project portfolio",
-    "section": "Academic publications",
-    "text": "Academic publications\n\nOzer, Adam L. 2023. “Women Experts and Gender Bias in Political Media”. Public Opinion Quarterly.  https://doi.org/10.1093/poq/nfad011\nOzer, Adam L. & Wright, Jamie. 2022. “Partisan News Versus Party Cues: The Effect of Cross-Cutting Party and Partisan Network Cues on Polarization and Persuasion”. Research & Politics.  https://doi.org/10.1177/20531680221075455\nOzer, Adam L., Sullivan, Brian W.,  & Van, Douglas S. 2022.  “Viewed from Different Engels? Differences in Reactions to “Socialism” as a Policy Label”. Political Research Quarterly.  https://doi.org/10.1177/10659129211037402\nSimas, Elizabeth N. & Ozer, Adam L. 2021. “Polarization, candidate positioning, and political participation in the U.S.”. Electoral Studies, 73. https://doi.org/10.1016/j.electstud.2021.102370\nOzer, Adam L. 2020. “Well, you’re the expert: how signals of source expertise help mitigate partisan bias.” Journal of Elections, Public Opinion and Parties, 1-21. https://doi.org/10.1080/17457289.2020.1744611\nSimas, Elizabeth N., & Ozer, Adam L. 2017. “Church or state? Reassessing how religion shapes impressions of candidate positions”. Research & Politics, 4(2). https://doi.org/10.1177/2053168017716548"
+    "section": "Academic Publications ",
+    "text": "Academic Publications \n\nOzer, Adam L. 2023. “Women Experts and Gender Bias in Political Media”. Public Opinion Quarterly.  https://doi.org/10.1093/poq/nfad011\nOzer, Adam L. & Wright, Jamie. 2022. “Partisan News Versus Party Cues: The Effect of Cross-Cutting Party and Partisan Network Cues on Polarization and Persuasion”. Research & Politics.  https://doi.org/10.1177/20531680221075455\nOzer, Adam L., Sullivan, Brian W.,  & Van, Douglas S. 2022.  “Viewed from Different Engels? Differences in Reactions to “Socialism” as a Policy Label”. Political Research Quarterly.  https://doi.org/10.1177/10659129211037402\nSimas, Elizabeth N. & Ozer, Adam L. 2021. “Polarization, candidate positioning, and political participation in the U.S.”. Electoral Studies, 73. https://doi.org/10.1016/j.electstud.2021.102370\nOzer, Adam L. 2020. “Well, you’re the expert: how signals of source expertise help mitigate partisan bias.” Journal of Elections, Public Opinion and Parties, 1-21. https://doi.org/10.1080/17457289.2020.1744611\nSimas, Elizabeth N., & Ozer, Adam L. 2017. “Church or state? Reassessing how religion shapes impressions of candidate positions”. Research & Politics, 4(2). https://doi.org/10.1177/2053168017716548"
   },
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "Blog posts",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\npets\n\n\nphotos\n\n\nother stuff\n\n\n \n\n\n\n\nMar 15, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPet photos\n\n\nA very cute placeholder post.\n\n\n\npets\n\n\nphotos\n\n\nother stuff\n\n\n\n\n\n\nMar 15, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/posts/2024-03-15-pet-photos/index.html",
@@ -66,8 +66,8 @@
     "objectID": "publications.html#data-science-training-and-mentoring",
     "href": "publications.html#data-science-training-and-mentoring",
     "title": "Project portfolio",
-    "section": "Data science training and mentoring",
-    "text": "Data science training and mentoring\n\nVerian Global Data Science Training seminar - an annual internal seminar aimed at educating early career researchers about key DS principles and tools.\nIntroduction to R Workshop Series - an annual series of beginner-friendly workshops covering the basics of data wrangling and data visualisation."
+    "section": "Data science training and mentoring ",
+    "text": "Data science training and mentoring \n\nVerian Global Data Science Training seminar - an annual internal seminar aimed at educating early career researchers about key DS principles and tools.\nIntroduction to R Workshop Series - an annual series of beginner-friendly workshops covering the basics of data wrangling and data visualisation."
   },
   {
     "objectID": "blog/posts/2024-03-15-pet-photos/index.html#fisher",
@@ -82,5 +82,47 @@
     "title": "Pet photos",
     "section": "Coconut",
     "text": "Coconut\n Coconut, nary a thought in his head."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Paul Johnson",
+    "section": "",
+    "text": "M.A. Political Science\nUniversity of Houston 2017 — 2020\n\nM.Sc. Global Politics\nUniversity of Southampton 2011 — 2012\n\nB.A. Politics\nUniversity of Sussex 2008 — 2011"
+  },
+  {
+    "objectID": "about.html#selected-work-experience",
+    "href": "about.html#selected-work-experience",
+    "title": "Paul Johnson",
+    "section": "Selected Work Experience {{< fa briefcase >}}",
+    "text": "Selected Work Experience {{&lt; fa briefcase &gt;}}\n\nPrincipal Data Scientist\nNHS South, Central and West CSU Nov 2021 — Present\n\nProviding technical expertise in analytics and research-focused projects across the organisation, including experimental and observational analysis of healthcare interventions.\nBuilding and deploying machine learning models, such as a model forecasting the daily event counts in Urgent and Emergency Care Services and a clustering model identifying similar GP practices.\nLeading the development of organisational expertise in data science, including training and mentoring colleagues in statistics, machine learning, and programming.\nSupporting the development of the SCW’s infrastructure for developing and deploying data science.\n\n\n\nAssociate BI Consultant\nNHS South, Central and West CSU April 2021 — Nov 2021\n\nLed research on wider determinants of health inequalities and the role of deprivation in health outcomes.\nSupported the Population Health Analytics team with research design, statistical modelling, and the visualisation and communication of findings.\n\n\n\nGraduate Research/Teaching Assistant\nUniversity of Houston July 2017 — Dec 2020\n\nBuilt natural language processing models for research into political language in legal texts.\nSupported the Political Party Database Project in the administration of the expert survey and maintenance of the project website.\nCourses: Intro to Comparative Politics, Mexican Politics, Comparative Elections, Media & Politics.\n\n\n\nFundraising Manager: Product Innovation\nMarie Curie Aug 2016 — July 2017\n\nManaged Marie Curie’s biggest regular fundraising campaign (Fundraising My Way).\nAssisted the development of new fundraising products and the innovation of existing campaigns.\n\n\n\nEvents & Corporate Fundraiser\nWorld Child Cancer July 2015 — April 2016\n\nDeveloped, recruited, and managed the charity’s largest fundraising event to date (Kilimanjaro trek) and various major events (Ride 100, Great North Run).\nSupported the Head of Corporate Fundraising in the successful corporate partnership with Deutsche Bank."
+  },
+  {
+    "objectID": "about.html#further-work-experience",
+    "href": "about.html#further-work-experience",
+    "title": "Paul Johnson",
+    "section": "Further Work Experience {{< fa clock-rotate-left >}}",
+    "text": "Further Work Experience {{&lt; fa clock-rotate-left &gt;}}\n\nVarious Administrative Roles\nCharity Sector & NHS\n\nFamily for Every Child - Events Coordinator\nUniversity Hospital Southampton - Oncology Outpatient Clerk\nUniversity Hospital Southampton - Income Management Assistant"
+  },
+  {
+    "objectID": "publications.html#social-research-projects",
+    "href": "publications.html#social-research-projects",
+    "title": "Project portfolio",
+    "section": "Social Research Projects ",
+    "text": "Social Research Projects \n\nThe UK MP Inbox (website coming summer 2024) - A comprehensive database of thousands email newsletters sent by UK members of parliament."
+  },
+  {
+    "objectID": "publications.html#social-research-data-sources",
+    "href": "publications.html#social-research-data-sources",
+    "title": "Project portfolio",
+    "section": "",
+    "text": "The UK MP Inbox (website coming summer 2024) - A comprehensive database of thousands email newsletters sent by UK members of parliament."
+  },
+  {
+    "objectID": "publications.html#data-science-training-mentoring",
+    "href": "publications.html#data-science-training-mentoring",
+    "title": "Project portfolio",
+    "section": "Data Science Training & Mentoring ",
+    "text": "Data Science Training & Mentoring \n\nVerian Global Data Science Training seminar - an annual internal seminar aimed at educating early career researchers about key DS principles and tools.\nIntroduction to R Workshop Series - an annual series of beginner-friendly workshops covering the basics of data wrangling and data visualisation."
   }
 ]

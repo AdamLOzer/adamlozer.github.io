@@ -1,22 +1,27 @@
 ---
-title: "Project portfolio"
-description: |
-  A selection of works in social science, data science, and everything in between.
-about:
-  template: solana
+title: "<span style='font-family: Lora;'>Project portfolio</span>"
+format:
+  html:
+    toc: true
+    css: publications_theme.css
+description: "<span style='font-family: Calibri;'>A selection of works in social science, data science, and everything in between.</span>"
+fontsize: 1.2rem
+mainfont: "Calibri"
 ---
 
-### Social research projects
+<br/>
+
+## Social Research Projects {{< fa lightbulb >}}
 
 -   **The UK MP Inbox** (website coming summer 2024) - A comprehensive database of thousands email newsletters sent by UK members of parliament.
 
+## Data Science Training & Mentoring {{< fa brain >}}
 
-### Data science training and mentoring
 -   **Verian Global Data Science Training seminar** - an annual internal seminar aimed at educating early career researchers about key DS principles and tools.
 
 -   **Introduction to R Workshop Series** - an annual series of beginner-friendly workshops covering the basics of data wrangling and data visualisation.
 
-### Academic publications
+## Academic Publications {{< fa file-pen >}}
 
 -   **Ozer, Adam L.** 2023. “Women Experts and Gender Bias in Political Media”. *Public Opinion Quarterly*.  [**https://doi.org/10.1093/poq/nfad011**](https://doi.org/10.1093/poq/nfad011)
 

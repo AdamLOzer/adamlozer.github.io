@@ -7,12 +7,12 @@ website:
   navbar:
     right:
       - href: blog/index.qmd
-        text: Blog
+        text: DS Blog
       - href: https://drive.google.com/file/d/1Qjok1SjCKTVaR0I15d9rqvYEfcHBUf-y/view
         text: CV
         icon: link
       - href: publications.qmd
-        text: Publications
+        text: Projects & Publications
 
   page-footer:  
     left: >-
@@ -31,6 +31,9 @@ format:
     theme: pulse
     css: styles.css
     toc: true
+    grid:
+      sidebar-width: 350px
+      margin-width:	275px
 
 editor: visual
 

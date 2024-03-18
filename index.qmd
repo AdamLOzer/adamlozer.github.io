@@ -1,6 +1,8 @@
 ---
-title: "Adam L. Ozer"
+title: "<span style='font-size: 2.8rem;font-family: Lora;'>Adam L. Ozer</span>"
 subtitle: "Data scientist and quantitative social researcher in industry and academia"
+fontsize: 1.2rem
+mainfont: "Calibri"
 image: cliffs.jpg
 about:
   template: solana

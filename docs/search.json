@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Adam L. Ozer",
     "section": "",
-    "text": "I am Adam, Senior Data Scientist/Associated Director at Verian (formerly Kantar Public) on the Population Studies Team. I am a quantitative researcher and social scientist in both industry and academia. My work has been featured in peer-reviewed journals such as Public Opinion Quarterly, Business & Politics, and Electoral Studies and continue to contribute research at the University of Houston, London School of Economics, and the Open University."
+    "text": "I am Adam, Senior Data Scientist/Associated Director at Verian (formerly Kantar Public) on the Population Studies Team. I am a quantitative researcher and social scientist in both industry and academia. My work has been featured in peer-reviewed journals such as Public Opinion Quarterly, Business & Politics, and Electoral Studies. I continue to contribute research at the University of Houston, London School of Economics, and the Open University."
   },
   {
     "objectID": "about.html",
@@ -32,7 +32,7 @@
     "href": "blog/index.html",
     "title": "Blog posts",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPet photos\n\n\nA very cute placeholder post.\n\n\n\npets\n\n\nphotos\n\n\nother stuff\n\n\n\n\n\n\nMar 15, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nThe UK MP Inbox - A Sneak Peak\n\n\nEvery official email newsletter from UK Members of Parliament in one comprehensive database.\n\n\n\npolitics\n\n\ndata science\n\n\nMP Inbox\n\n\n\n\n\n\nMar 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPet photos\n\n\nA very cute placeholder post.\n\n\n\npets\n\n\nphotos\n\n\nother stuff\n\n\n\n\n\n\nMar 15, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/posts/2024-03-15-pet-photos/index.html",
@@ -124,5 +124,61 @@
     "title": "Project portfolio",
     "section": "Data Science Training & Mentoring ",
     "text": "Data Science Training & Mentoring \n\nVerian Global Data Science Training seminar - an annual internal seminar aimed at educating early career researchers about key DS principles and tools.\nIntroduction to R Workshop Series - an annual series of beginner-friendly workshops covering the basics of data wrangling and data visualisation."
+  },
+  {
+    "objectID": "blog/posts/2024-03-18-mp-inbox-sneak-peak/mp_inbox_sneak_peek.html",
+    "href": "blog/posts/2024-03-18-mp-inbox-sneak-peak/mp_inbox_sneak_peek.html",
+    "title": "The UK MP Inbox - A Sneak Peak",
+    "section": "",
+    "text": "Since last autumn, I have been building The UK MP Inbox as part of Verian’s broader initiative to further develop our context modelling capabilities. Inspired by the American DC Inbox and the fantastic work done by Dr. Lindsey Cormack, I sought to build a full, consistently updated, free-to-use database of every official email newsletter sent by UK Members of Parliament. These e-newsletters can be used in wide variety of social science research, providing important context about political messaging, policy-making, and the relevant political zeitgeist.\nUnfortunately, there is much work to be done before the MP Inbox is read for a public launch. However, I plan to post semi-regular updates on the Inbox’s progress, culminating in its full launch (hopefully) prior to the looming UK General Election. The Inbox has already collected thousands of e-newsletters since late November of 2023, with more coming in each and every day. I’m excited to walk you through the basic reasoning behind the project, as well as provide a sneak peak at the patterns in the data collected thus far."
+  },
+  {
+    "objectID": "blog/posts/2024-03-18-mp-inbox-sneak-peak/mp_inbox_sneak_peek.html#quarto",
+    "href": "blog/posts/2024-03-18-mp-inbox-sneak-peak/mp_inbox_sneak_peek.html#quarto",
+    "title": "A sneak peak at The UK MP Inbox",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "blog/posts/2024-03-18-mp-inbox-sneak-peak/mp_inbox_sneak_peek.html#running-code",
+    "href": "blog/posts/2024-03-18-mp-inbox-sneak-peak/mp_inbox_sneak_peek.html#running-code",
+    "title": "A sneak peak at The UK MP Inbox",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "blog/posts/2024-03-18-mp-inbox-sneak-peak/mp_inbox_sneak_peek.html#why-build-the-mp-inbox",
+    "href": "blog/posts/2024-03-18-mp-inbox-sneak-peak/mp_inbox_sneak_peek.html#why-build-the-mp-inbox",
+    "title": "A sneak peak at The UK MP Inbox",
+    "section": "Why build the MP Inbox?",
+    "text": "Why build the MP Inbox?"
+  },
+  {
+    "objectID": "blog/posts/2024-03-18-mp-inbox-sneak-peak/mp_inbox_sneak_peek.html#why-build-e-newsletters",
+    "href": "blog/posts/2024-03-18-mp-inbox-sneak-peak/mp_inbox_sneak_peek.html#why-build-e-newsletters",
+    "title": "A sneak peak at The UK MP Inbox",
+    "section": "Why build e-newsletters?",
+    "text": "Why build e-newsletters?\n\nDirect, unfiltered communication\nAudience = politically engaged, potential to be mobilised.\nwhat politicians say is of public interest, and there should be some kind of record."
+  },
+  {
+    "objectID": "blog/posts/2024-03-18-mp-inbox-sneak-peak/mp_inbox_sneak_peek.html#who-sends-e-newsletters",
+    "href": "blog/posts/2024-03-18-mp-inbox-sneak-peak/mp_inbox_sneak_peek.html#who-sends-e-newsletters",
+    "title": "A sneak peak at The UK MP Inbox",
+    "section": "Who sends e-newsletters?",
+    "text": "Who sends e-newsletters?"
+  },
+  {
+    "objectID": "blog/posts/2024-03-18-mp-inbox-sneak-peak/mp_inbox_sneak_peek.html#why-build-a-database-of-e-newsletters",
+    "href": "blog/posts/2024-03-18-mp-inbox-sneak-peak/mp_inbox_sneak_peek.html#why-build-a-database-of-e-newsletters",
+    "title": "The UK MP Inbox - A Sneak Peak",
+    "section": "Why build a database of e-newsletters?",
+    "text": "Why build a database of e-newsletters?\n\nDirect, unfiltered communication\nAudience = politically engaged, potential to be mobilised.\nwhat politicians say is of public interest, and there should be some kind of record."
+  },
+  {
+    "objectID": "blog/posts/2024-03-18-mp-inbox-sneak-peak/mp_inbox_sneak_peek.html#what-trends-do-we-see-among-the-parties",
+    "href": "blog/posts/2024-03-18-mp-inbox-sneak-peak/mp_inbox_sneak_peek.html#what-trends-do-we-see-among-the-parties",
+    "title": "The UK MP Inbox - A Sneak Peak",
+    "section": "What trends do we see among the parties?",
+    "text": "What trends do we see among the parties?\n\nMany more Tory MPs make use of e-newsletters.\nTories also send way more newsletters as a result.\nJohn Redwood (Wokingham) is a clear outlier."
   }
 ]

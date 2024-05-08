@@ -1,0 +1,76 @@
+---
+title: "The UK MP Inbox - A Sneak Peek"
+subtitle: "<span style='font-family: Calibri;'>Every official email newsletter from UK Members of Parliament in one comprehensive database.</span>"
+author: "Adam L. Ozer"
+date: "2024-05-08"
+image: blog_1_front_end_screenshot.jpg
+categories: [politics, data science, MP Inbox]
+citation:
+  url: https://adamlozer.github.io/blog/posts/2024-03-18-mp-inbox-sneak-peak/
+---
+
+In autumn of 2023, I started building **The UK MP Inbox** as part of [**Verian's**](https://www.veriangroup.com/) broader Future of Evidence initiative. Inspired by its American predecessor, [**The DC Inbox**](https://www.dcinbox.com/), the UK MP Inbox is a consistently updated, publicly available database of every official email newsletter sent by UK Members of Parliament. These e-newsletters can be used in a wide variety of public sector and academic-oriented social science research, providing important insights into strategic political messaging, policy-making, and the relevant political zeitgeist.
+
+The UK MP Inbox is on track for a full public launch in late summer 2024 (official date TBD), just in time for the looming UK General Election. In the meantime, I have already collected thousands of e-newsletters since late November of 2023, with more coming in each and every day. So while we build up to a launch day, I am happy to share the first of several semi-regular updates on the Inbox's progress, walking you through the motivation behind this project and providing a sneak peek at the patterns in the data collected thus far.
+
+<center>![A screenshot of the database's UI](blog_1_front_end_screenshot.jpg){width="100%"}</center>
+
+## Why build a database of e-newsletters?
+
+Our goals for this project are oriented both around social science/public policy research and the general normative democratic public good.
+
+From a social science and public policy perspective, e-newsletters allow MPs and their staffs to communicate more directly with their constituents than any other form of messaging. Most traditional public statements made by MPs are relayed through the media, meaning public officials lack direct control over **if**, **when**, **how**, and **to whom** the message is reported among other competing messages and stories. While messaging through social media offers some more direct control, communication is nonetheless subject to the whims of the website's algorithm and business incentives.[^1]
+
+[^1]: This is particularly relevant as social media companies have increasingly deprioritised political and public policy news content on their platforms. For examples, see [Financial Times](https://www.ft.com/content/8ebb8854-426b-46f8-9c5c-b8f988c298f7), [NBC](https://www.nbcnews.com/tech/instagram-will-stop-recommending-political-content-rcna138178), and [Slate](https://slate.com/technology/2023/10/elon-musk-x-twitter-news-links-headlines-why.html).
+
+In contrast, e-newsletters allow public officials to send direct, unfiltered messaging and information to the email inboxes of their desired audience: local constituents and potential voters that are likely highly politically engaged (they have self-selected into the audience, after all). As a result, e-newsletters allow MPs to reach their core audience and discuss the issues and topics that they most want their constituents to hear. Meanwhile, local constituents receive a free[^2] resource that allows them to interact directly with democratic representatives and stay informed about policies, issues, and events that impact their local communities just by signing up.
+
+[^2]: Free insofar that signing up to receive a newsletter costs nothing. The e-newsletters themselves are penned using staff (and under-appreciated interns) and resources paid for with taxpayer money.
+
+By collecting these e-newsletters into one convenient database, social scientists can use them as data to better understand political communication strategies, key issues in local and national politics, political engagement and mobilisation, and other key aspects of democratic communication. Moreover, these data can be used in conjunction with public opinion data to add valuable context to polling trends and improve the breadth and depth of quantitative and qualitative insights. I, in my humble and completely unbiased opinion, highly recommend sourcing these polling data from Verian, an industry leader in public sector research in the UK and globally.
+
+Yet, beyond the policy and political research motivations, the UK MP Inbox represents an important normative good for the UK public. What politicians say and how they use their time or resources is of public interest. There ought to be public records reflecting that. Like any other form of communication from public officials, e-newsletters influence public discourse on policy or electoral politics and are written using staff and resources funded with taxpayer money. While other forms of MP behaviour are dutifully documented by the government itself (e.g. MPs' expenses, voting records, and statements made in parliament), there is no such comprehensive record of e-newsletters to date. While it is a small gesture in the grand scheme, an endeavour that allows one to provide open-source data for scientists while archiving information for the public is likely one worth pursuing.
+
+## How many MPs are consistently using e-newsletters?
+
+Perhaps unsurprisingly, some MP offices appear to be a bit more tech saavy than others, which is in their e-newsletter usage. This is reflected in their e-newsletter usage. Of the 650+[^3] MPs, roughly 91.7% have a functioning website.[^4] A total of 400 (61.3%) have some form of e-newsletter sign up.[^5] Since late November 2023, 200 MPs (30.6% of all MPs; 50.0% of MPs with e-newsletter sign ups) have sent at least one newsletter, with a total of 1840 newsletters received as 06 May, 2024. Notably, among the past two leaders of the Conservative and Labour parties, only Liz Truss has sent any e-newsletters since the start of November 2023.
+
+[^3]: Some MPs have left or taken office since data collection began in November, hence why the total number of MPs is not an even 650.
+
+[^4]: Many of which were quite old and buggy.
+
+[^5]: This includes a handful of instances where the sign up form/link exists but is either broken or leads to a 404 error.
+
+<center>![Figure 1. Total e-newsletters sent per MP (among MPs active e-newsletters; n = 1840)](blog_1_per_mp_hist.jpg){width="85%"}</center>
+
+**Figure 1** presents the distribution of total e-newsletters sent per MP from 26 November, 2023 to 06 May, 2024. The majority of MPs with active e-newsletters tend to send about one per month. These patterns are reflected in the rightward skew of this distribution, concentrating around one e-newsletter per month per MP (mean = 9; median = 6; mode = 6). A smaller share of MPs tend to send out e-newsletters on a roughly weekly or bi-weekly basis (for context, the time period here covers just over 23 weeks). A handful of MPs send out e-newsletters more frequently still. HHowever, among all MPs, one serves as a true outlier: John Redwood (Wokingham, Conservative), who sends multiple updates per day, and is the proverbial king of e-newsletter usage to date.
+
+This leads to an interesting question: why don't more MPs utilise e-newsletters? After all, maintaining an active e-newsletter is extremely low cost relative to other forms of communication. This fact does not appear to be lost on U.S. legislators, who make much more frequent use of e-newsletters. I plan to explore this fact and this question in a future blog post. Yet, for the purposes of building intrigue, I would highlight three potential suspects: 1) office staff funding & parliamentary expense rules, 2) party structure and incentives, and 3) a potential lack of perceived utility among the MPs (driven by a myriad of potential causes). For the moment, let us dip our toes into suspect #2 and take a very brief descriptive look at some party-based patterns. 
+
+
+## What trends do we see among the parties?
+
+A quick look at some descriptive patterns makes one thing abundantly clear: Conservative MPs make much more frequent use of e-newsletters than Labour MPs. Figures 2A and 2B present a simple count of the number of MPs with active newsletters (2A) and the total number of newsletters sent since November 2023 based on party (2B).[^6] There are roughly 4.3 times as many Conservative MPs with active e-newsletters as Labour. As a result, Tory MPs have sent 6 times as many newsletters as Labour MPs.[^7] It is worth noting that this pattern is partially driven by the disparity in the number of seats between Conservatives and Labour. Yet, even if one were to look at these data as a proportion of each party, it would be evident that Conservative MPs make much more widespread and frequent use of e-newsletters than their Labour counterparts.
+
+[^6]: Please note that MPs who have lost the party whip have been grouped in with their relevant party (e.g. Diane Abbott would be counted under Labour). While Lee Anderson and Dan Poulter have switched parties since the beginning of data collection, they are listed as a Conservative MPs in these analyses solely for parsimony.
+
+[^7]: Even if we remove John Redwood as a clear outlier, the Tories have still sent 5 times as many e-newsletters as Labour.
+
+<center>![Figure 2. Frequency of MP e-newsletters](blog_1_frequency_plots.jpg){width="100%"}</center>
+
+
+Unsurprisingly, the smaller parties lag behind in raw numbers of MPs and total e-newsletters. While party size is the driving factor here, these patterns may also be a function of party structure. For example, while many Liberal Democrats have their own independent websites and e-newsletters, other parties like Sinn F&eacute;in appear to take on a much more centralised approach to communication in general. For example, Sinn F&eacute;in representatives have profiles on the party website rather than their own individual websites. 
+
+**Figure 3** depicts the weekly trends in e-newsletters for Conservative and Labour MPs. The dotted lines represent the total number of e-newsletters sent that week, while the solid lines represent the conditional mean trend line (with 95% confidence interval). 
+
+<center>![Figure 3. Trends in e-newsletters per week for Conservative and Labour MPs](blog1_mp_per_week.jpg){width="100%"}</center>
+
+The data reveal two basic trends of note. First, MPs tend to schedule their e-newsletters to be delivered towards the beginning or end of the month, resulting in the large spikes seen in the plot. The Christmas/New Years period is the major exception in this pattern. Second, while the rate of incoming e-newsletters from Labour appears to be stable, the rate of Conservative e-newsletters had been on a slight decline prior to the local elections in May. Among Conservative MPs, both the top and bottom e-newsletter rate weeks declined from February to March and from March to April, well before the pre-election period of sensitivity was imposed on 11 April. Finally, we see a substantial spike in the number of Conservative e-newsletters the week of the local elections, driven largely by messages reminding constituents to vote. Interestingly, there does not seem to be a large corresponding spike in Labour e-newsletters the week of the elections. 
+
+Unfortunately, this brief descriptive look does not allow for a good assessment of causality (assuming there is a strong causal mechanism at play). Yet, it is not too much of a stretch to hypothesise that this pattern is influenced by controversial stories in the news cycle earlier this year and electoral incentives among Conservative MPs seeking to minimise local losses. It will surely be interesting to see how these patterns develop as the general election looms. 
+
+## What is next?
+
+There is much more to come from the UK MP Inbox in the near future, so be sure to stay tuned. Expect to see simple analyses just like these in the coming months, exploring trends in the data based on constituency and MP demographics, assessing changes in those trends based on proximity to the election, and comparing those trends to similar patterns among U.S. legislators. I will also release updates on the progress of the Inbox's public launch and share the official launch date as soon as I can. 
+
+In the meantime, if there are any topics you would like me to discuss, questions you would like me to answer, or general comments you would like to share, please reach out to me at [adam.ozer@veriangroup.com](mailto:adam.ozer@veriangroup.com).

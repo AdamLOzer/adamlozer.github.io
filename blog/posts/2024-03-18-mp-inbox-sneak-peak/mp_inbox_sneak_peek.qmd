@@ -3,7 +3,7 @@ title: "The UK MP Inbox - A Sneak Peek"
 subtitle: "<span style='font-family: Calibri;'>Every official email newsletter from UK Members of Parliament in one comprehensive database.</span>"
 author: "Adam L. Ozer"
 date: "2024-05-08"
-image: blog_1_front_end_screenshot.png
+image: blog_1_front_end_screenshot.jpg
 categories: [politics, data science, MP Inbox]
 citation:
   url: https://adamlozer.github.io/blog/posts/2024-03-18-mp-inbox-sneak-peak/

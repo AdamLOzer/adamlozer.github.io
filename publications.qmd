@@ -21,7 +21,9 @@ mainfont: "Calibri"
 
 -   **Introduction to R Workshop Series** - an annual series of beginner-friendly workshops covering the basics of data wrangling and data visualisation.
 
-## Academic Publications {{< fa file-pen >}}
+## Selected Academic Publications {{< fa file-pen >}}
+
+-   **Ozer, Adam L.**, Waggoner, Philip D., & Kennedy, Ryan. 2024. “The Paradox of Algorithms and Blame on Public Decision-makers”. *Business and Politics*.  [**https://doi.org/10.1017/bap.2023.35**](https://doi.org/10.1017/bap.2023.35)
 
 -   **Ozer, Adam L.** 2023. “Women Experts and Gender Bias in Political Media”. *Public Opinion Quarterly*.  [**https://doi.org/10.1093/poq/nfad011**](https://doi.org/10.1093/poq/nfad011)
 
@@ -32,5 +34,3 @@ mainfont: "Calibri"
 -   Simas, Elizabeth N. & **Ozer, Adam L.** 2021. “Polarization, candidate positioning, and political participation in the U.S.”. *Electoral Studies*, 73. [**https://doi.org/10.1016/j.electstud.2021.102370**](https://doi.org/10.1016/j.electstud.2021.102370)
 
 -   **Ozer, Adam L.** 2020. "Well, you’re the expert: how signals of source expertise help mitigate partisan bias." *Journal of Elections, Public Opinion and Parties*, 1-21. [**https://doi.org/10.1080/17457289.2020.1744611**](https://doi.org/10.1080/17457289.2020.1744611)
-
--   Simas, Elizabeth N., & **Ozer, Adam L.** 2017. "Church or state? Reassessing how religion shapes impressions of candidate positions". *Research & Politics*, 4(2). [**https://doi.org/10.1177/2053168017716548**](https://doi.org/10.1177%2F2053168017716548)

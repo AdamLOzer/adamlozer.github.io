@@ -9,6 +9,10 @@ citation:
   url: https://adamlozer.github.io/blog/posts/2024-03-18-mp-inbox-sneak-peak/
 ---
 
+*Disclaimer: Any statements or opinions expressed in this blog are shared in a personal capacity. They do not reflect the official stances or policies of Verian.*
+
+---
+
 In autumn of 2023, I started building [**The UK MP Inbox**](https://ukmpinbox.shinyapps.io/uk_mp_inbox/) and quietly launched it after the 2024 UK General Election. Inspired by its American predecessor, [**The DC Inbox**](https://www.dcinbox.com/) (created by Dr. Lindsey Cormack), the UK MP Inbox is a consistently updated, publicly available database of official email newsletters sent by UK Members of Parliament. The goal is for these e-newsletters to be used in a wide variety of public sector and academic-oriented social science research, providing important insights into strategic political messaging, policy-making, and the relevant political zeitgeist.
 
 For a time, I have been a bit reluctant to fully publicise the existence of the Inbox. Like many folks, I have been quite busy, and there is a series of features I would like to add to make it *perfect* before sending it out into the world. However, the perfect should not be the enemy of the good. So, by putting the Inbox into the world, I hope that it will simultaneously be a helpful source of data for researchers while forcing me to invest more time into updating the Inbox and writing fun blog posts like this one. With that in mind, please allow me to formally introduce [**The UK MP Inbox**](https://ukmpinbox.shinyapps.io/uk_mp_inbox/).

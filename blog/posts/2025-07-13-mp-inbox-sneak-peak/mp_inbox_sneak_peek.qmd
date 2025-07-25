@@ -75,13 +75,13 @@ In substantial shift in the partisan make up of Parliament in the wake of the 20
 <center>![Figure 3. Total number of e-newsletters by party (pre- and post-election)](blog_1_freq_number_of_newsletters.jpeg){width="90%"}</center>
 
 
-[^7]: for parsimony, MPs who have lost the party whip have been grouped in with their relevant party (e.g. Diane Abbott would be counted under Labour). While Lee Anderson (who switched parties prior to July 2024), is counted under Conservative prior to the General Election and under Reform after his reelection.
+[^7]: For parsimony, MPs who have lost the party whip have been grouped in with their relevant party (e.g. Diane Abbott would be counted under Labour). While Lee Anderson (who switched parties prior to July 2024), is counted under Conservative prior to the General Election and under Reform after his reelection.
 
 [^8]: Even if we remove John Redwood as a clear outlier, the Conservatives have still sent 5.5 times as many e-newsletters as Labour.
 
 Unsurprisingly, the smaller parties lag behind in raw numbers of MPs and total e-newsletters. Interestingly, recent electoral success does not necessarily translate into increased use of e-newsletters. While a larger number of Liberal Democrat MPs has resulted in more e-newsletters, Green Party MPs have not increased their e-newsletter output. While Reform UK and the DUP have increased their e-newsletter output since the election, a single MP with unique circumstances (Lee Anderson for Reform, Gavin Robinson for the DUP) makes up a disproportionate amount of that output.[^9]
 
-[^9]: Lee Anderson accounts for 70% of all e-newsletters sent by Reform MPs. He was frequent e-newsletter as a Conservative prior to joining Reform. Gavin Robinson serves as party leader for the DUP and accounts for 100% of the party's e-newsletters since July 2024.
+[^9]: Lee Anderson accounts for 70% of all e-newsletters sent by Reform MPs. He was a frequent e-newsletter writer as a Conservative prior to joining Reform. Gavin Robinson serves as party leader for the DUP and accounts for 100% of the party's e-newsletters since July 2024.
 
 For the smaller parties, these patterns may also be a function of party structure. Parties like the DUP, SDLP, and Sinn F&eacute;in take a much more centralised approach to communication in general. For example, Sinn F&eacute;in MPs have profiles on the party website rather than their own individual websites. 
 

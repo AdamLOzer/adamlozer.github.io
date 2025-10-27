@@ -17,7 +17,7 @@ citation:
 
 Since launching the [**The UK MP Inbox**](https://ukmpinbox.shinyapps.io/uk_mp_inbox/), I have had a few colleagues ask me if I had plans to reach out to any legislators and ask them about their experiences communicating with constituents through email newsletters. While the thought had crossed my mind, I would be lying if I claimed I was well and truly planning on trying to contact a legislator to pester them with questions for this little project. 
 
-However, I did not anticipate that a former legislator would reach out to me. A few weeks ago, when I received an email from [Richard Corbett](https://richardcorbett.org.uk/), former Member of European Parliament (Yorkshire and the Humber) and Leader of the European Parliamentary Labour Party (EPLP). He had reached out to let me know that he had read my original blog post[^1] and shared with me some of his constituency newsletters from his time in office. He was also kind enough to agree to sit down for a chat and answer some of my questions about fostering healthy communication with constituents and the process of producing e-newsletters. While I am certainly no formally trained journalist, I want to try to share some of the interesting excerpts and insights from our chat.
+However, I did not anticipate that a former legislator would reach out to me. I received an email from [Richard Corbett](https://richardcorbett.org.uk/), former Member of European Parliament (Yorkshire and the Humber) and Leader of the European Parliamentary Labour Party (EPLP). He let me know that he had read my original blog post[^1] and wanted to share some of his constituency newsletters from his time in office. After exchanging a few emails, he kindly agreed to sit down for a chat and answer my questions about fostering healthy communication with constituents and the process of producing e-newsletters. While I am certainly no formally trained journalist, I want to try to share some of the interesting excerpts and insights from that discussion.
 
 So, how do newsletters fit into politicians' overall communication strategy? How do politicians determine the content to include and what issues to discuss? Do politicians *really* write their own newsletters or do they just have their staffers write them for them? Why don't more MPs have newsletters? What does the future of newsletters, and other long form informational content, look like in a world that is increasingly dominated by short form content? MEP Richard Corbett lends us his perspective from the other side of the email inbox.
 
@@ -214,9 +214,9 @@ What can politicians do in light of these rapid technological changes? Mr. Corbe
 # The most pressing intellectual questions of our time
 
 Finally, after a fascinating and informative conversation, I felt it was only right to conclude with heated intellectual debate on a hot button culture war topic.
-`
-::: {.blockquote}
 
+
+::: {.blockquote}
 > AO: "My final question. I couldn't pass up the opportunity to ask you a really silly one. If you have two lasagnas and you stack one on top of the other, do you have two lasagnas or one giant lasagna?"
 >
 > RC: "It's a question of definition, isn't it? But it depends if they're identical in their contents. Lasagnas can vary and different recipes. If you've put 2 different recipes, one on top of the other, I think you could probably still distinguish them and say these are two different lasagnas. If it's the same recipe and you just put one on top of the other. You can call it one lasagna.

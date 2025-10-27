@@ -30,16 +30,16 @@ A reoccurring theme throughout our conversation was how geography and the size o
 
 
 ::: {.blockquote}
-> Me (AO): "Why did you start writing newsletters to your constitutents?"
+> Me (AO): "Why did you start writing newsletters to your constituents?"
 >
-> Richard Corbett (RC): "Why did I start doing a newsletter? Well, as a member of the European Parliament, I had quite a large constituency initially. [Originally] It was the single member constituencies, but even those are eight Westminster constituencies grouped together. So eight times the size of of what most people in the UK are used to. Then, when we switched to proportional representation by region, the regional constituencies were even larger. So to communicate with a very large number of people, I tried a number of methods, one of which was the newsletter, which would go out to all Labour Party members in the in the area and local council leaders. I think we sent it to libraries, newspaper journalists that we knew, and then anybody basically who we wanted to be signed up to the mailing list."
+> Richard Corbett (RC): "Why did I start doing a newsletter? Well, as a member of the European Parliament, I had quite a large constituency.  Initially there were the single member Euro-constituencies, but even those were eight Westminster constituencies grouped together. So eight times the size of what most people in the UK are used to. Then, when we switched to proportional representation by region, the regional constituencies were even larger. To communicate with a very large number of people, I combined a number of methods, one of which was the newsletter, which would go out to all Labour Party members in the in the area, local council leaders, libraries, newspaper journalists that we knew, and then anybody basically who we wanted to be signed up to the mailing list."
 >
 :::
 
 While newsletters were an effective tool, Mr. Corbett explained how they were one piece of a larger cohesive strategy to engage with constituents. 
 
 ::: {.blockquote}
-> RC: "It wasn't the only tool I had. Like all Members, at the end of the week in your constituency office, you make it known that you're available to meet people. You deal with people by e-mail. I had a very comprehensive website which dealt with a lot of issues as they came up: giving explanations of what this issue was, how it works, and what position I had taken. I would tour around a lot on Fridays, Saturdays and Sundays. When you're back in the constituency, you're speaking in different places across the region. That may sometimes be talking to 10 people in a room. It may be to a couple of hundred. But over time that adds up."
+> RC: "It wasn't the only tool I had. Like all Members, at the end of the week, back in your constituency office, you make it known that you're available to meet people. You deal with more people by e-mail. I had a very comprehensive website which dealt with a lot of issues as they came up: giving explanations of what this or that issue was, how it works, and what position I had taken. I would tour around a lot on Fridays, Saturdays and Sundays. When you're back in the constituency, you're speaking in different places across the region. That may sometimes be talking to 10 people in a room. It may be to a couple of hundred. But over time that adds up."
 > 
 > AO: "What advantages or disadvantages do you see e-newsletters playing in your arsenal of communication tools?"
 >
@@ -74,11 +74,12 @@ In addition to varied content, Mr. Corbett also emphasised the need to encourage
 
 
 ::: {.blockquote}
-> RC: "The newsletters generated feedback. Of course, how to contact me was he was on the newsletter. [They contacted me] normally be by e-mail, or sometimes by telephone, wanting to come and see me. But e-mail would be the most common. They were usually either writing to agree or disagree with something, or to ask for further information, or to get help with queries, or to send invitations to come and speak to them, to different groups and whatever."
+> RC: "The newsletters generated feedback. Of course, how to contact me was he was on the newsletter. [They contacted me] normally be by e-mail, or sometimes by telephone, or wanting to come and see me. But e-mail would be the most common. They were usually either writing to agree or disagree with something, or to ask for further information, or to get help with queries, or to send invitations to come and speak to them, to different groups and whatever."
 >
 > AO: "Any particular stories stand out?"
 >
-> RC: "Oh, gosh, that's so long ago now. It clearly follows what was in the news to a degree. The subjects that attracted a lot of attention were things like the euro: when it went into a difficult period and the whole debate on whether Britain should join the euro. Sometimes people contact you about things that are European, but not in the sense of what the European Union has done. You get constituents writing to you saying 'I had a car crash in Italy last summer. There's a problem with the insurance that's not been sorted out. Can you help? What do I do? Who do I contact in Italy?' Or 'I worked in Denmark for three years. My Social Security contributions that I paid there was supposed to be refunded into the UK system. There's a hold up in the Danish ministry. Can you help me?' And often you could help, with your contacts and your colleagues from those countries in the European Union. So emails and messages from constituents are not always generated by [the content of the newsletter]. But it's a way of saying, 'hey, I'm here'. So maybe on a completely different subject, you get people writing to you on major political issues or on personal issues like that."
+> RC: "Oh, gosh, that's so long ago now. It clearly follows what was in the news to a degree. The subjects that attracted a lot of attention were things like the euro: when it went into a difficult period and the whole debate on whether Britain should join the euro. Sometimes people contact you about things that are European, but not in the sense of what the European Union has done. You get constituents writing to you saying 'I had a car crash in Italy last summer. There's a problem with the insurance that's not been sorted out. Can you help? What do I do? Who do I contact in Italy?' Or 'I worked in Denmark for three years. My Social Security contributions that I paid there was supposed to be refunded into the UK system. There's a hold up in the Danish ministry. Can you help me?' And often you could help, with your contacts and your colleagues from those countries in the European Parliament. Emails and messages from constituents are not always generated by [the content of the newsletter]. But the newsletter is a way of saying, 'hey, I'm here'. So maybe they then write to you on a completely different subject, you get people writing to you on major political issues or on personal issues like that.
+"
 :::
 
 
@@ -105,13 +106,13 @@ Of course, this is just a sample size of one, other politicians may not be so ha
 
 
 ::: {.blockquote}
-> AO: "I might be putting words in some people's mouths, but I think many people would be surprised to hear that most of the words in the newsletters are actually your own and not just some random staffer. Do you think most politicians use thier own words rather than delegate [newsletter writing] to a staffer?
+> AO: "I might be putting words in some people's mouths, but I think many people would be surprised to hear that most of the words in the newsletters are actually your own and not just some random staffer. Do you think most politicians use their own words rather than delegate [newsletter writing] to a staffer?"
 > 
 > RC: "Well, they should, because politicians need to be very careful about which words they choose. I mean the wrong word here or there can land you in a lot of political difficulty if you're not careful. You're trying to express your own views after all, and communicate it to a lot of people. It should be your own - your own views, I mean. I'm not saying there aren't parts [that staffers help with]. Like at the back of each constituency report, I put a list of all the meetings I've been to and places I've been, just as a reporting thing. I got a member of my staff to do that. But then I would read it over, of course, to check that there were no mistakes." 
 >
 > AO: "I think a lot of people might just assume that any political messages put out by a politician's office are written by either a staffer or artificial intelligence."
 >
-> RC: "Any elected representative who doesn't at least check it over very carefully and adjust the wording is being silly... But yeah, I guess nowadays I could get AI to write it."
+> RC: "Any elected representative who doesn't at least check it over very carefully and adjust the wording is being silly. But yeah, I guess nowadays I could get AI to draft it."
 >
 :::
 
@@ -135,7 +136,7 @@ Mr. Corbett was both fascinated and surprised by the fact that the majority of M
 [^3]: Of course, that did not stop my old academic buzzkill instincts from kicking in and prodding at a totally sensible hypothesis. 
 
 ::: {.blockquote}
-> AO: Speaking strictly about MPS rather than MEPs, only about 1/3 of UK MPs have an active e-newsletter.
+> AO: Speaking strictly about MPs rather than MEPs, only about 1/3 of UK MPs have an active e-newsletter.
 >
 > RC: "That's astonishing. Did you say earlier there's a difference by party on this?"
 >
@@ -163,7 +164,7 @@ Despite the initial surprise, he was also highly sympathetic towards his Westmin
 >
 > AO: "Do you think more MPs should be taking advantage of newsletters and e-newsletters?"
 >
-> RC: "Well, I certainly found it to be useful in my situation. For MPs, it's up for them to judge what will be useful in their situation. [There is] another factor of having a smaller constituency, a Westminster sized constituency, especially if it corresponds to a particular town or whatever. The MP would regularly be invited to local events: the opening of new markets or ceremonies commemorating the end of the Second World War or whatever it might be. There are always civic events where the MP would be on the list. They can go there and meet lots of people, be visible, and generate discussions about this or that. Maybe subsequent correspondence for a Member of the European Parliament - with multiple localities across a wider area - was a less reliable way of being out and about, being visible, talking to people, and bumping into people."
+> RC: "Well, I certainly found it to be useful in my situation. For MPs, it's up for them to judge what will be useful in their situation. [There is] another factor of having a smaller constituency, a Westminster sized constituency, especially if it corresponds to a particular town or whatever. The MP would regularly be invited to local events: the opening of new markets or ceremonies commemorating the end of the Second World War or whatever it might be. There are always civic events where the MP would be on the list. They can go there and meet lots of people, be visible, and generate discussions about this or that and maybe generate subsequent correspondence. For a Member of the European Parliament - with multiple localities across a wider area - this was a less reliable way of being out and about, being visible, talking to people, and bumping into people."
 
 :::
 
@@ -172,7 +173,7 @@ For the most part, our conversation was relatively non-partisan, orbiting mostly
 
 
 ::: {.blockquote}
-> AO: "Why do you think conservatives are are taking advantage of [e-newsletters] at a higher rate than the Labour Party?"
+> AO: "Why do you think conservatives are taking advantage of [e-newsletters] at a higher rate than the Labour Party?"
 >
 > RC: "Well, I don't know. I put out a hypothesis earlier that it was because we're in government, and when you're in opposition, you've got more time to do these things. But then you said before the election, it wasn't so different, so I don't know."
 > 
@@ -193,11 +194,11 @@ In my original blog post, I noted that politicians were not always the most tech
 
 ::: {.blockquote}
 
-> RC: "It's over five years now since I ceased to be an MEP, but even towards the end of my term of office, I think the media landscape and the communications landscape was changing. There are new tools to communicate online. Things a lot of [MPs] may be doing now may be sent as short messaging. 'Hi, I'm here. I've just been doing this. Blah blah blah' and send it out by these new methods. So a written or electronic newsletter is perhaps seen as relatively declining importance as these new ways of communicating electronically have have risen."
+> RC: "It's over five years now since I ceased to be an MEP, but even towards the end of my term of office, I think the media landscape and the communications landscape was changing. There are new tools to communicate online. Things a lot of [MPs] may be doing now may be sent as short messaging. 'Hi, I'm here. I've just been doing this. Blah blah blah' and send it out by these new methods. So a written or electronic newsletter is perhaps seen as relatively declining importance as these new ways of communicating electronically have risen."
 > 
 > AO: "Do you feel that something is being lost if we were to move away from newsletters and that sort of long form messaging?"
 >
-> RC: "Well, yes, it's a general pattern with this not just with regards to MPs or MEPs or newsletters. People are shifting to short, sharp messages: 'Look at this! Hey, look at this!' instead of a longer, considered piece. Newspapers have declined. Messages posted on X or its equivalents, which are always very short, have increased. I gather there's studies that have shown that people's attention spans are now much shorter than they were even 10 years ago, because there's so many things flashing up very quickly, with much less time to read and consider something at length."
+> RC: "Well, yes, it's a general pattern with this, not just with regard to MPs or MEPs or newsletters. People are shifting to short, sharp messages: 'Look at this! Hey, look at this!' instead of a longer, considered piece. Newspapers have declined. Messages posted on X or its equivalents, which are always very short, have increased. I gather there's studies that have shown that people's attention spans are now much shorter than they were even 10 years ago, because there's so many things flashing up very quickly, with much less time to read and consider something at length."
 
 :::
 

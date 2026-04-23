@@ -13,7 +13,11 @@ mainfont: "Calibri"
 
 ## Social Research Projects {{< fa lightbulb >}}
 
--   **The UK MP Inbox** (website coming summer 2024) - A comprehensive database of thousands email newsletters sent by UK members of parliament.
+-   [The UK MP Inbox](https://ukmpinbox.shinyapps.io/uk_mp_inbox/) - A comprehensive database of thousands email newsletters sent by UK members of parliament.
+
+- [Understanding Pupil Premium spending in schools](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/pupil-premium-statement-research-project) - Commissioned by the *Education Endowment Fund (EEF)*, this project aims to assess how UK schools report spending their Pupil Premium funding.
+
+- [R&D Science and Analysis Programme - Capturing engagement numbers](https://www.gov.uk/government/collections/rd-science-and-analysis-programme-capturing-engagement-numbers) - Commissioned by the *Department for Culture, Media, and Sport (DCMS)*, this project explores different methodologies for measuring public engagement in different cultural and sporting activities.
 
 ## Data Science Training & Mentoring {{< fa brain >}}
 

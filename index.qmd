@@ -22,4 +22,6 @@ about:
       href: https://www.researchgate.net/profile/Adam_Ozer
 ---
 
-I am Adam, Senior Data Scientist/Associated Director at Verian on the Population Studies Data Team. I am a quantitative researcher and social scientist in both industry and academia. My work has been featured in peer-reviewed journals such as *Public Opinion Quarterly*, *Business & Politics,* and *Electoral Studies*. I still occasionally contribute to academic research at the London School of Economics and Ohio State University. I am also the creator of [**The UK MP Inbox**](https://ukmpinbox.shinyapps.io/uk_mp_inbox/), a publicly available database of official email newsletters sent by UK Members of Parliament.
+I am Adam, Lead Data Scientist & Associated Director at Verian on the Population Studies Data Team. I am a quantitative researcher and social scientist in both industry and academia. I am also the creator of [**The UK MP Inbox**](https://ukmpinbox.shinyapps.io/uk_mp_inbox/), a publicly available database of official email newsletters sent by UK Members of Parliament.
+
+My work has been featured in peer-reviewed journals such as *Public Opinion Quarterly*, *Business & Politics,* and *Electoral Studies*. I have also published research on behalf of government clients, including the *Home Office*, the *Education Endowment Fund (EEF)*, and the *Deparment for Culture, Media, and Sport*. I still occasionally contribute to academic research at the London School of Economics and Ohio State University. 
